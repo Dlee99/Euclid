@@ -12,7 +12,7 @@ public class Main {
                 rec(a, b)
                 //iter(a, b)
                 ;
-        System.out.println("Your greatest common denominator is " + GCD);
+        System.out.println("Your greatest common divisor is " + GCD);
 
     }
     public static int rec(int a, int b){
